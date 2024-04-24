@@ -109,6 +109,7 @@
 
 .project-img {
     width: 350px;
+    height: 225px;
     transition: transform 0.3s ease-in-out; /* Adding a smooth transition effect */
     cursor: pointer; /* Changing cursor to a hand */
 }
